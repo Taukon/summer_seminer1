@@ -2,3 +2,5 @@ issue1
 
 
 pull_request_test
+
+change_by_comment
